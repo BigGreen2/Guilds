@@ -1,0 +1,10 @@
+name: GuildDnDC
+version: '1.0-SNAPSHOT'
+main: green.greenguild.Greenguild
+api-version: 1.18
+depend: [Atlas]
+
+commands:
+  guild:
+  guildtest:
+  guildsshow:
